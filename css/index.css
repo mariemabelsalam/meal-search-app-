@@ -1,0 +1,23 @@
+body {
+    background-color: #34495e;
+}
+
+nav {
+    background-color: #ecf0f1;
+}
+
+button {
+    background-color: #3498db;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+
+.card{
+    transition: all 1s;
+}
+.card:hover {
+    transform: scale(1.1);
+}
+.modal {
+    overflow: auto;
+}
